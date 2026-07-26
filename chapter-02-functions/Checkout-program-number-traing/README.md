@@ -1,0 +1,4 @@
+This is my first program in c++, I focus this program on functions. I use the strategies of function argument and parameters, looping, logic(if,bool.....), multiple files coding and assembling, I faced the issue of grammar, algorithm apperance and logic parts.
+In next program, I will let my code look more tidy, use more formal grammar and fixing the function-naming.
+In this program, you can input a number to validate if it is even or odd, you can input the base and exponent to calculate the power, you can input a number to calculate the sum from one to itself. Finally, you can input a number to let it create a table which mutiplies 1-12 to itself.
+Good luck to me!
